@@ -1,4 +1,4 @@
-let expect = require('chai').expect;
+let expect = require('mocha').expect;
 let parkingLot = require('../parkingLot');
 describe('create_parking_lot 6', async function ()
 {
