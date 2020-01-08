@@ -1,4 +1,4 @@
-let expect = require('mocha').expect;
+let expect = require('Mocha').expect;
 let parkingLot = require('../parkingLot');
 
 
